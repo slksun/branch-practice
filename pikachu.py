@@ -1,2 +1,4 @@
+print('pika!')
+print('Chu!')
 
-피즈피즈피즈
+
